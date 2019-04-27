@@ -1,0 +1,8 @@
+# Karaf feature Eclipse Modeling Framework
+
+Externsion to karaf which adds Eclipse Modeling Framewrok bundles to karaf features.
+
+## Features:
+
+- eclipse-emf 2.12
+

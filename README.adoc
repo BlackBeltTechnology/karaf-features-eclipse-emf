@@ -4,5 +4,5 @@ Externsion to karaf which adds Eclipse Modeling Framewrok bundles to karaf featu
 
 ## Features:
 
-- eclipse-emf 2.12
+- eclipse-emf 2.18
 
